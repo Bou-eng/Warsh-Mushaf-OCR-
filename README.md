@@ -32,5 +32,6 @@ Skips missing files and continues
 Saves results in a json_output/ folder
 
 !! Notes
+
 The script preserves all original text exactly (harakat, imala, small letters, etc.)
 If a surah fails during batch processing, you can process it individually using the first script
